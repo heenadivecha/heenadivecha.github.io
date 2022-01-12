@@ -1,0 +1,20 @@
+---
+title: "Heena R. Divecha"
+image: "heena.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/heena-divecha/"
+  - label: GitHub
+    url: "https://github.com/heenadivecha"
+  - label: Twitter
+    url: "https://twitter.com/HeenaDivecha"
+  - label: Email
+    url: "mailto:heenadivecha@email.com"
+output:
+  postcards::onofre
+---
+ 
+Heena Divecha is a Research Associate working in Dr.Keri Martinowich and Kristen Maynards group at the lieber institute for Brain Development.She works within a translational research setting focusing on next generation sequencing projects using 10x Genomics Visium technology in postmortem human brain tissues that aim to create spatial maps of gene expression in the human brain and examine associations with neuropsychiatric disease risk and illness state. She continues to pursue her interest in Neuroscience and assisting in solving the mysteries of the brain.
